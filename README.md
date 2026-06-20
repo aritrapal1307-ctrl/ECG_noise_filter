@@ -32,15 +32,11 @@ To simulate ECG acquisition, introduce artificial power-line noise, and recover 
 
 ## Noisy ECG
 
-![Noisy ECG](images/noisy_ecg.png)
-
-## Twin-T Notch Filter Verification
-
-![Notch Test](images/notch_test.png)
+![Noisy ECG](images/noisyecg.png)
 
 ## Final Output
 
-![Final Output](images/final_output.png)
+![Final Output](images/final.png)
 
 ## Concepts Demonstrated
 
