@@ -32,11 +32,11 @@ To simulate ECG acquisition, introduce artificial power-line noise, and recover 
 
 ## Noisy ECG
 
-![Noisy ECG](images/noisyecg.png)
+![Noisy ECG](noisyecg.png)
 
 ## Final Output
 
-![Final Output](images/final.png)
+![Final Output](final.png)
 
 ## Concepts Demonstrated
 
