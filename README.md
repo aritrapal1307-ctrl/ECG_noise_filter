@@ -28,7 +28,7 @@ To simulate ECG acquisition, introduce artificial power-line noise, and recover 
 
 ## Circuit Diagram
 
-![Circuit](images/circuit.png)
+![Circuit](circuit.png)
 
 ## Noisy ECG
 
